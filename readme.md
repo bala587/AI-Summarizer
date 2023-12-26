@@ -2,7 +2,11 @@
 
 
 ### Cloning the repository
+```shell
 https://github.com/bala587/AI-Summarizer
+```
 
 ### Install packages
+```shell
 npm install
+```
