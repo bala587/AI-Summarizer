@@ -10,3 +10,12 @@ https://github.com/bala587/AI-Summarizer
 ```shell
 npm install
 ```
+
+### Setup .env file
+```js
+VITE_RAPID_API_ARITCLE_KEY= Add your Article Extractor and Summarizer key from rapid api
+```
+### Start the app
+```shell
+npm run dev
+```
