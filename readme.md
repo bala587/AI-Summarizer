@@ -1,3 +1,5 @@
+# Article Summarizer
+
 ![output](https://i.pinimg.com/originals/b0/2f/08/b02f08f39972c3cdf4d14b3ec4fd186e.jpg)
 
 Welcome to AI - Summarizer, an innovative application that leverages the power of Article Extractor and Summarizer through the Rapid API key. This documentation serves as a guide to help you understand and utilize the features of our interactive article summarization app.
